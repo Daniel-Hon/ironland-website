@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 100" width="480" height="100">
+  <!-- IRONLAND Logo - Based on AI Source File -->
+  
+  <!-- Logo Icon - IL Monogram -->
+  <g transform="translate(20, 20)">
+    <!-- I Shape - left slanted bar -->
+    <polygon 
+      points="0,12 22,6 22,68 0,74" 
+      fill="#E6261F"
+    />
+    <!-- L Shape - right angled bar, connected to I -->
+    <polygon 
+      points="25,8 50,2 50,72 25,66" 
+      fill="#E6261F"
+    />
+  </g>
+  
+  <!-- Brand Name -->
+  <text 
+    x="85" 
+    y="65" 
+    font-family="Arial Black, Helvetica Neue, sans-serif" 
+    font-size="48" 
+    font-weight="900"
+    fill="#000000"
+    letter-spacing="2"
+  >IRONLAND</text>
+</svg>

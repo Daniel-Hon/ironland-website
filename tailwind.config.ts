@@ -7,12 +7,29 @@ const config: Config = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: '1.5rem',
+        sm: '2rem',
+        lg: '3rem',
+        xl: '4rem',
+        '2xl': '5rem',
+      },
+      screens: {
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+        xl: '1280px',
+        '2xl': '1400px',
+      },
+    },
     extend: {
       colors: {
-        // IRONLAND Brand Colors
+        // IRONLAND Brand Colors (from Logo)
         brand: {
-          primary: '#F04A24',    // 工业橙
-          dark: '#2B2B2B',       // 深炭灰
+          primary: '#E6261F',    // Logo 朱红色
+          dark: '#000000',       // Logo 纯黑色
           light: '#FFFFFF',      // 纯白
           gray: {
             100: '#F5F5F5',

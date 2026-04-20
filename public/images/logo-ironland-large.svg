@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" width="520" height="110">
+  <!-- IRONLAND Logo - Larger Text & Icon -->
+  
+  <!-- White Text: IRONLAND - Larger -->
+  <text x="15" y="78" font-family="Arial Black, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF" letter-spacing="2">IRONLAND</text>
+  
+  <!-- Red IL Icon - Larger -->
+  <g transform="translate(400, 12)">
+    <polygon points="0,12 30,2 30,85 0,75" fill="#E6261F"/>
+    <polygon points="35,8 65,0 65,80 35,72" fill="#E6261F"/>
+  </g>
+</svg>

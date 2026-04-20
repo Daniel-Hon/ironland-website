@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <!-- IRONLAND Logo - Horizontal Version -->
+  
+  <!-- Logo Icon - Geometric IL Design -->
+  <g transform="translate(10, 10)">
+    <!-- Left shape (I) -->
+    <polygon points="0,10 25,0 25,70 0,80" fill="#E6261F"/>
+    <!-- Right shape (L) -->
+    <polygon points="30,5 55,0 55,75 30,70" fill="#E6261F"/>
+  </g>
+  
+  <!-- Brand Name - IRONLAND -->
+  <text x="80" y="62" 
+        font-family="Arial Black, Arial, sans-serif" 
+        font-size="48" 
+        font-weight="900"
+        fill="#000000"
+        letter-spacing="2">IRONLAND</text>
+</svg>

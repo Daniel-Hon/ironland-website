@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <!-- IRONLAND Logo - Production Version -->
+  
+  <!-- Logo Icon -->
+  <g transform="translate(15, 12)">
+    <!-- I -->
+    <polygon points="0,10 20,5 20,55 0,60" fill="#E6261F"/>
+    <!-- L -->
+    <polygon points="24,7 48,0 48,62 24,55" fill="#E6261F"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="75" y="52" font-family="Arial Black, sans-serif" font-size="40" font-weight="900" fill="#000000" letter-spacing="2">IRONLAND</text>
+</svg>

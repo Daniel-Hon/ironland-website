@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --brand-primary: #F04A24;
-  --brand-dark: #2B2B2B;
+  --brand-primary: #E6261F;  /* Logo 朱红色 - 官方品牌色 */
+  --brand-dark: #000000;     /* Logo 纯黑色 */
   --brand-light: #FFFFFF;
 }
 
