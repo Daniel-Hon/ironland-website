@@ -49,18 +49,12 @@ export default function Home() {
 
       {/* Hero Section - 全屏视频背景 */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
-        {/* 视频背景 */}
+        {/* 背景图片 */}
         <div className="absolute inset-0 z-0">
-          <video
-            autoPlay
-            loop
-            muted
-            playsInline
-            className="absolute inset-0 w-full h-full object-cover"
-            poster="/images/hero-fallback.jpg"
-          >
-            <source src="/hero-video.mp4" type="video/mp4" />
-          </video>
+          <div 
+            className="absolute inset-0 w-full h-full bg-cover bg-center"
+            style={{ backgroundImage: 'url(/images/hero-fallback.jpg)' }}
+          />
           {/* 深色遮罩层 */}
           <div className="absolute inset-0 bg-black/80" />
         </div>
